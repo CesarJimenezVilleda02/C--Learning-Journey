@@ -1,0 +1,11 @@
+C:\Users\Cesar\Documents\C#\WinForms\Tutorial_Win_1\Tutorial_Win_1\bin\Debug\Tutorial_Win_1.exe.config
+C:\Users\Cesar\Documents\C#\WinForms\Tutorial_Win_1\Tutorial_Win_1\bin\Debug\Tutorial_Win_1.exe
+C:\Users\Cesar\Documents\C#\WinForms\Tutorial_Win_1\Tutorial_Win_1\bin\Debug\Tutorial_Win_1.pdb
+C:\Users\Cesar\Documents\C#\WinForms\Tutorial_Win_1\Tutorial_Win_1\obj\Debug\Tutorial_Win_1.csproj.AssemblyReference.cache
+C:\Users\Cesar\Documents\C#\WinForms\Tutorial_Win_1\Tutorial_Win_1\obj\Debug\Tutorial_Win_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cesar\Documents\C#\WinForms\Tutorial_Win_1\Tutorial_Win_1\obj\Debug\Tutorial_Win_1.Form1.resources
+C:\Users\Cesar\Documents\C#\WinForms\Tutorial_Win_1\Tutorial_Win_1\obj\Debug\Tutorial_Win_1.Properties.Resources.resources
+C:\Users\Cesar\Documents\C#\WinForms\Tutorial_Win_1\Tutorial_Win_1\obj\Debug\Tutorial_Win_1.csproj.GenerateResource.cache
+C:\Users\Cesar\Documents\C#\WinForms\Tutorial_Win_1\Tutorial_Win_1\obj\Debug\Tutorial_Win_1.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\C#\WinForms\Tutorial_Win_1\Tutorial_Win_1\obj\Debug\Tutorial_Win_1.exe
+C:\Users\Cesar\Documents\C#\WinForms\Tutorial_Win_1\Tutorial_Win_1\obj\Debug\Tutorial_Win_1.pdb

@@ -1,0 +1,15 @@
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial6\Tutorial6\bin\Debug\net6.0\Tutorial6.exe
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial6\Tutorial6\bin\Debug\net6.0\Tutorial6.deps.json
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial6\Tutorial6\bin\Debug\net6.0\Tutorial6.runtimeconfig.json
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial6\Tutorial6\bin\Debug\net6.0\Tutorial6.dll
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial6\Tutorial6\bin\Debug\net6.0\Tutorial6.pdb
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial6\Tutorial6\obj\Debug\net6.0\Tutorial6.csproj.AssemblyReference.cache
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial6\Tutorial6\obj\Debug\net6.0\Tutorial6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial6\Tutorial6\obj\Debug\net6.0\Tutorial6.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial6\Tutorial6\obj\Debug\net6.0\Tutorial6.AssemblyInfo.cs
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial6\Tutorial6\obj\Debug\net6.0\Tutorial6.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial6\Tutorial6\obj\Debug\net6.0\Tutorial6.dll
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial6\Tutorial6\obj\Debug\net6.0\refint\Tutorial6.dll
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial6\Tutorial6\obj\Debug\net6.0\Tutorial6.pdb
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial6\Tutorial6\obj\Debug\net6.0\Tutorial6.genruntimeconfig.cache
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial6\Tutorial6\obj\Debug\net6.0\ref\Tutorial6.dll

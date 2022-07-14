@@ -1,0 +1,8 @@
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial14\Tutorial14\bin\Debug\Tutorial14.exe.config
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial14\Tutorial14\bin\Debug\Tutorial14.exe
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial14\Tutorial14\bin\Debug\Tutorial14.pdb
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial14\Tutorial14\obj\Debug\Tutorial14.csproj.AssemblyReference.cache
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial14\Tutorial14\obj\Debug\Tutorial14.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial14\Tutorial14\obj\Debug\Tutorial14.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial14\Tutorial14\obj\Debug\Tutorial14.exe
+C:\Users\Cesar\Documents\C#\cursoYt\Tutorial14\Tutorial14\obj\Debug\Tutorial14.pdb

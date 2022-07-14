@@ -1,0 +1,10 @@
+C:\Users\Cesar\Documents\C#\cursoYt\Tutoriañ7_OOP\Tutoriañ7_OOP\bin\Debug\Tutoriañ7_OOP.exe.config
+C:\Users\Cesar\Documents\C#\cursoYt\Tutoriañ7_OOP\Tutoriañ7_OOP\bin\Debug\Tutoriañ7_OOP.exe
+C:\Users\Cesar\Documents\C#\cursoYt\Tutoriañ7_OOP\Tutoriañ7_OOP\bin\Debug\Tutoriañ7_OOP.pdb
+C:\Users\Cesar\Documents\C#\cursoYt\Tutoriañ7_OOP\Tutoriañ7_OOP\obj\Debug\Tutorial7_OOP.csproj.AssemblyReference.cache
+C:\Users\Cesar\Documents\C#\cursoYt\Tutoriañ7_OOP\Tutoriañ7_OOP\obj\Debug\Tutorial7_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cesar\Documents\C#\cursoYt\Tutoriañ7_OOP\Tutoriañ7_OOP\obj\Debug\Tutoriañ7_OOP.Properties.Resources.resources
+C:\Users\Cesar\Documents\C#\cursoYt\Tutoriañ7_OOP\Tutoriañ7_OOP\obj\Debug\Tutorial7_OOP.csproj.GenerateResource.cache
+C:\Users\Cesar\Documents\C#\cursoYt\Tutoriañ7_OOP\Tutoriañ7_OOP\obj\Debug\Tutorial7_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\C#\cursoYt\Tutoriañ7_OOP\Tutoriañ7_OOP\obj\Debug\Tutoriañ7_OOP.exe
+C:\Users\Cesar\Documents\C#\cursoYt\Tutoriañ7_OOP\Tutoriañ7_OOP\obj\Debug\Tutoriañ7_OOP.pdb
